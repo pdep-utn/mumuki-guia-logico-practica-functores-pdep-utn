@@ -1,0 +1,14 @@
+---
+name: Práctica Functores
+locale: es
+type: practice
+beta: false
+language: prolog
+id_format: "%05d"
+order:
+- 100
+- 501
+- 300
+- 500
+- 502
+private: false

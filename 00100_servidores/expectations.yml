@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: requiereAtencion
+  inspection: HasBinding
+- binding: requiereAtencion
+  inspection: HasArity:3

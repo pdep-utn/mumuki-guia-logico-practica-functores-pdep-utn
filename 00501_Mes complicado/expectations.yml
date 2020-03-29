@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: complicado
+  inspection: HasBinding
+- binding: complicado
+  inspection: HasForall

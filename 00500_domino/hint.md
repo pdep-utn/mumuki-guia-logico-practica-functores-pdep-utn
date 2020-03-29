@@ -1,0 +1,1 @@
+* Delegar todo lo posible a predicados auxiliares.
